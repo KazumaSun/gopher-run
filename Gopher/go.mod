@@ -1,4 +1,4 @@
-module GopherBackend
+module github.com/gopher-run-code
 
 go 1.23
 
